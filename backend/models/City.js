@@ -1,0 +1,12 @@
+import mongoose from "mongoose";
+
+const citySchema = new mongoose.Schema(
+  {
+    name: { type: String, required: true },
+    population: { type: Number, default: 0 },
+    country: { type: String, required: true },
+  },
+  { timestamps: true }
+);
+
+export default mongoose.model("City", citySchema);
