@@ -7,9 +7,8 @@ It demonstrates basic CRUD operations with a **MongoDB** database, **Express** b
 ---
 
 ## Live Demo
-- **Frontend:** [https://deployment-and-devops-essentials-q1.vercel.app/](https://deployment-and-devops-essentials-q1.vercel.app/)  
-- **Backend:** [https://deployment-and-devops-essentials-52py.onrender.com](https://deployment-and-devops-essentials-52py.onrender.com)
-
+- **Frontend:** https://mern-final-project-jgot.vercel.app/ 
+- **Backend:** https://mern-final-project-fitzsimmons-cell-1.onrender.com
 ---
 
 ## Technology Stack
